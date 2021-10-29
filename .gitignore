@@ -1,0 +1,11 @@
+.DS_Store
+thumbs.db
+.vscode
+.eslintrc.json
+
+index.js
+copied.txt
+
+node_modules/
+package.json
+package-lock.json
