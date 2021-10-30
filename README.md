@@ -1,1 +1,2 @@
 # Redux
+This is a very minimal index.html that has React and Redux included, to make a simple counter. Along the way I added another very simple index.html in a subdirectory to try to figure out why things weren't working. In the end I realized I had to include babel and add type="text/babel" to the script tag in order for the JSX to work.
